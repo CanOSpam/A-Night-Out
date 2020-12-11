@@ -1,1 +1,2 @@
-# A-Night-Out
+# A Night Out
+A game about birds
